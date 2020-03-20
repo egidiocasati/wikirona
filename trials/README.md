@@ -85,3 +85,4 @@ As a consideration inputing should be as fast as possible, with as little typing
 * [On the Design of a Blockchain Platform for Clinical Trial and Precision Medicine](https://ieeexplore.ieee.org/abstract/document/7980138).
 * [https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2035-z](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-017-2035-z).
 * [Clinical Trial Protocol](https://clinicaltrials.gov/ProvidedDocs/85/NCT01619085/Prot_000.pdf).
+* [Essential Documents for Clinical Trials](https://www.medtran.ru/eng/trials/trialdocumentation.htm)
